@@ -8,13 +8,13 @@
 ```bash
 which image compare to? 0-8
 > 3
-podobieństwo obrazka 0 do obrazka 3 to 99.8528522742%
-podobieństwo obrazka 1 do obrazka 3 to 99.8489573297%
-podobieństwo obrazka 2 do obrazka 3 to 99.8428132968%
-podobieństwo obrazka 3 do obrazka 3 to 100.0%
-podobieństwo obrazka 4 do obrazka 3 to 99.8561216444%
-podobieństwo obrazka 5 do obrazka 3 to 99.8502680567%
-podobieństwo obrazka 6 do obrazka 3 to 99.8502531621%
-podobieństwo obrazka 7 do obrazka 3 to 99.8407019837%
-podobieństwo obrazka 8 do obrazka 3 to 99.8654494034%
+similarity of image 0 to image 3 is 99.8528522742%
+similarity of image 1 to image 3 is 99.8489573297%
+similarity of image 2 to image 3 is 99.8428132968%
+similarity of image 3 to image 3 is 100.0%
+similarity of image 4 to image 3 is 99.8561216444%
+similarity of image 5 to image 3 is 99.8502680567%
+similarity of image 6 to image 3 is 99.8502531621%
+similarity of image 7 to image 3 is 99.8407019837%
+similarity of image 8 to image 3 is 99.8654494034%
 ```

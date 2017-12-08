@@ -29,5 +29,5 @@ for i in range(9):
     diff_sq = diff ** 2
     total_diff = np.sum(diff_sq)
     percentage_diff = str((1 - total_diff / max_diff) * 100) + "%"
-    print("podobieństwo obrazka", i, "do obrazka", index,
-          "to", percentage_diff)
+    print("similarity of image", i, "to image", index,
+          "is", percentage_diff)
